@@ -23,7 +23,7 @@ Front-End Engineer with experience designing and building responsive, user-focus
   <li>Visual Studio Code.</li>
 </ul>
 
-<h2 style="color: red;">Core Strengths</h2>
+<h2>Core Strengths</h2>
 
 <ul>
   <li>Responsive, mobile-first web development.</li>
