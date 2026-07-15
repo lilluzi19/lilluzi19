@@ -23,7 +23,7 @@ Front-End Engineer with experience designing and building responsive, user-focus
   <li>Visual Studio Code.</li>
 </ul>
 
-<h2>Core Strengths</h2>
+<h2 style="color: red;">Core Strengths</h2>
 
 <ul>
   <li>Responsive, mobile-first web development.</li>
@@ -41,7 +41,7 @@ Front-End Engineer with experience designing and building responsive, user-focus
 <h2>Links</h2>
 
 <ul>
-  <li>🌐 <a style="color: red;" href="https://usmanzaman.com/" target="_blank">Portfolio</a></li>
+  <li>🌐 <a href="https://usmanzaman.com/" target="_blank">Portfolio</a></li>
   <li>💼 <a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/usmanzaman19/" target="_blank">LinkedIn</a></li>
   <li>📧 <a href="mailto:usman.zaman@hotmail.com">usman.zaman@hotmail.com</a></li>
 </ul>
