@@ -1,4 +1,4 @@
-<h1>Hi, I'm Usman Zaman 👋</h1>
+<h1>Hi, I'm Usman 👋</h1>
 
 <p>
 Front-End Engineer with experience designing and building responsive, user-focused web applications from concept to deployment. Experienced working independently across the full development process, including UI/UX design, front-end development, back-end integration, and delivering high-quality, maintainable solutions. Passionate about creating intuitive user experiences while continuously expanding my skills and contributing to collaborative development teams.
@@ -41,7 +41,7 @@ Front-End Engineer with experience designing and building responsive, user-focus
 <h2>Links</h2>
 
 <ul>
-  <li>🌐 <a href="https://usmanzaman.com/" target="_blank">Portfolio</a></li>
+  <li>🌐 <a style="color: red;" href="https://usmanzaman.com/" target="_blank">Portfolio</a></li>
   <li>💼 <a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/usmanzaman19/" target="_blank">LinkedIn</a></li>
   <li>📧 <a href="mailto:usman.zaman@hotmail.com">usman.zaman@hotmail.com</a></li>
 </ul>
