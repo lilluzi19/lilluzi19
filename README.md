@@ -1,7 +1,7 @@
 <h1>Hi, I'm Usman 👋</h1>
 
 <p>
-Front-End Engineer with experience designing and building responsive, user-focused web applications from concept to deployment. Experienced working independently across the full development process, including UI/UX design, front-end development, back-end integration, and delivering high-quality, maintainable solutions. Passionate about creating intuitive user experiences while continuously expanding my skills and contributing to collaborative development teams.
+Full-Stack Engineer with experience designing and building responsive, user-focused web applications from concept to deployment. Experienced in working independently across the full development process, including UI/UX design, front-end development, back-end integration, and delivery of high-quality, maintainable solutions. Passionate about creating intuitive user experiences while continuously expanding my skills and contributing to collaborative development teams.
 </p>
 
 <h2>Technologies &amp; Tools</h2>
