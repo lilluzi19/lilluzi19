@@ -1,7 +1,7 @@
 <h1>Hi, I'm Usman 👋</h1>
 
 <p>
-Frontend Engineer with experience designing and developing responsive, user-focused web applications using modern JavaScript frameworks. I'm passionate about creating intuitive, accessible, and high-performance user interfaces with clean, scalable code. I enjoy building engaging digital experiences while continuously expanding my skills and contributing to collaborative development teams.
+Front-End Engineer with experience designing and developing responsive, user-focused web applications using modern JavaScript frameworks. I'm passionate about creating intuitive, accessible, and high-performance user interfaces with clean, scalable code. I enjoy building engaging digital experiences while continuously expanding my skills and contributing to collaborative development teams.
 </p>
 
 <h2>Technologies &amp; Tools</h2>
