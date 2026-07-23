@@ -1,7 +1,7 @@
 <h1>Hi, I'm Usman 👋</h1>
 
 <p>
-Full-Stack Engineer with experience designing and building responsive, user-focused web applications from concept to deployment. Experienced in working independently across the full development process, including UI/UX design, front-end development, back-end integration, and delivery of high-quality, maintainable solutions. Passionate about creating intuitive user experiences while continuously expanding my skills and contributing to collaborative development teams.
+Frontend Engineer with experience designing and developing responsive, user-focused web applications using modern JavaScript frameworks. I'm passionate about creating intuitive, accessible, and high-performance user interfaces with clean, scalable code. I enjoy building engaging digital experiences while continuously expanding my skills and contributing to collaborative development teams.
 </p>
 
 <h2>Technologies &amp; Tools</h2>
@@ -14,9 +14,6 @@ Full-Stack Engineer with experience designing and building responsive, user-focu
   <li>TypeScript.</li>
   <li>React.</li>
   <li>Next.js.</li>
-  <li>Node.js.</li>
-  <li>Express.js.</li>
-  <li>PostgreSQL.</li>
   <li>Bootstrap.</li>
   <li>Git &amp; GitHub.</li>
   <li>Figma.</li>
@@ -27,21 +24,21 @@ Full-Stack Engineer with experience designing and building responsive, user-focu
 
 <ul>
   <li>Responsive, mobile-first web development.</li>
-  <li>Building accessible, user-focused interfaces.</li>
-  <li>Writing clean, scalable and maintainable code.</li>
-  <li>Reusable component-based architecture.</li>
-  <li>Performance optimisation and modern web best practices.</li>
+  <li>Building accessible and user-focused interfaces.</li>
+  <li>Developing reusable component-based architectures.</li>
+  <li>Writing clean, scalable, and maintainable code.</li>
+  <li>Performance optimisation and Core Web Vitals best practices.</li>
   <li>Cross-browser compatibility and responsive design.</li>
-  <li>UI/UX implementation with strong attention to detail.</li>
-  <li>REST API integration and full-stack project development.</li>
-  <li>Version control and collaborative workflows using Git.</li>
-  <li>End-to-end project ownership from planning to deployment.</li>
+  <li>UI implementation from Figma designs with strong attention to detail.</li>
+  <li>Interactive interfaces using modern JavaScript and React.</li>
+  <li>Version control and collaborative workflows using Git &amp; GitHub.</li>
+  <li>Continuous learning and adoption of modern frontend technologies.</li>
 </ul>
 
 <h2>Links</h2>
 
 <ul>
   <li>🌐 <a href="https://usmanzaman.com/" target="_blank">Portfolio</a></li>
-  <li>💼 <a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/usmanzaman19/" target="_blank">LinkedIn</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/usmanzaman19/" target="_blank">LinkedIn</a></li>
   <li>📧 <a href="mailto:usman.zaman@hotmail.com">usman.zaman@hotmail.com</a></li>
 </ul>
