@@ -28,7 +28,7 @@ Full-Stack Engineer with experience building responsive, user-focused web applic
 
 <ul>
   <li>Full-stack web application development across front-end and back-end systems.</li>
-  <li>Responsive, mobile-first web development and accessible user-focused interfaces.</li>
+  <li>Responsive, mobile web development and accessible user-focused interfaces.</li>
   <li>Building reusable component-based architectures with React and Next.js.</li>
   <li>Developing server-side functionality using Node.js and Express.</li>
   <li>Designing and integrating RESTful APIs between front-end and back-end services.</li>
